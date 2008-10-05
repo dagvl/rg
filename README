@@ -1,0 +1,14 @@
+Structure
+---------
+
+lib:
+  external libs not installed through gems
+
+src:
+  rg code
+  
+spec:
+  tests
+  
+scripts:
+  runnables
